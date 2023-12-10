@@ -1,0 +1,20 @@
+.provisional {
+    width: 100%;
+}
+
+.form {
+    background: #efefef;
+    padding: 100px 0;
+}
+.form h2 {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.form-inner {
+    width: fit-content;
+    margin: 0 auto;
+}
+.form-inner iframe {
+}
